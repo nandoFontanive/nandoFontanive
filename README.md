@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Meu nome é Fernando e cursando Análise e Desenvolvimento de Sistemas na Unisinos.
+Meu nome é Fernando e atualmente curso Análise e Desenvolvimento de Sistemas na Unisinos.
 
 Atualmente sou desenvolvedor iOS no Apple Developer Academy - PUCRS. Trabalho em projetos colaborativos utilizando SwiftUI e UIKit, além de aprender sobre conceitos e aplicações de User Experience (UX) e ferramentas como Figma e App Store Connect. Além disso, empregamos frameworks da Apple como SpriteKit, MapKit, CoreML, CoreMotion, GameKit entre muitos outros.
 
