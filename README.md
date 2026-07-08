@@ -1,4 +1,4 @@
-## Olá 👋
+## Hi! 👋
 
 <!--
 **nandoFontanive/nandoFontanive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Meu nome é Fernando e atualmente curso Análise e Desenvolvimento de Sistemas na Unisinos.
+I'm currently studying Cybersecurity at UniSenac and Analysis and Systems Development student at Unisinos with practical experience in SecOps and cloud monitoring from my internship at ADP Brazil Labs and iOS app development from Apple Developer Academy.
 
-Atualmente sou desenvolvedor iOS no Apple Developer Academy - PUCRS. Trabalho em projetos colaborativos utilizando SwiftUI e UIKit, além de aprender sobre conceitos e aplicações de User Experience (UX) e ferramentas como Figma e App Store Connect. Além disso, empregamos frameworks da Apple como SpriteKit, MapKit, CoreML, CoreMotion, GameKit entre muitos outros.
+My technical background focuses on active vulnerability remediation (CVEs), CI/CD security integration via Bitbucket, and infrastructure observability using Splunk and AWS CloudWatch, backed by a strong foundation in native iOS development (SwiftUI/UIKit), experience as Scrum Master and a solid analytical background (chemistry PhD).
 
-<!--Os apps que publiquei na App Store podem ser vistos aqui: https://luanatthomas.github.io>
+I am currently seeking challenging opportunities within SOC, SecOps or cybersecurity teams to conduct threat triaging, log analysis, and vulnerability management, leveraging my development skills to automate processes and ensure a robust security posture, protecting critical digital assets and improving compliance.
+
+Apps I worked on can be checked here: https://nandofontanive.github.io/
